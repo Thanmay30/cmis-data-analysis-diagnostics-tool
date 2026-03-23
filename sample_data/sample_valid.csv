@@ -1,0 +1,4 @@
+module_id,temperature,voltage,tx_power,rx_power,status,lane_count
+CMIS-3001,31.5,3.27,1.6,1.4,active,4
+CMIS-3002,22.9,3.34,1.0,0.9,standby,4
+CMIS-3003,89.8,3.52,0.6,0.4,fault,8

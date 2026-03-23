@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Test/cache artifacts
+.pytest_cache/
+.coverage
+
+# Local output files
+*.log
+*.tmp
+*.out
+report.json
+anomalies.json
+anomalies.csv
+
+# OS files
+.DS_Store

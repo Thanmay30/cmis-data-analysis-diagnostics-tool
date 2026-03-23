@@ -1,0 +1,4 @@
+# key=value style raw telemetry (supports decimal and hex)
+module_id=CMIS-4001 temperature=0x24 voltage=3.30 tx_power=1.5 rx_power=1.3 status=active lane_count=0x4
+module=CMIS-4002 temp=0x1c vcc=3.31 tx=1.1 rx=1.0 state=standby lanes=4
+module_id=CMIS-4003 temperature=0x5A voltage=3.52 tx_power=0.7 rx_power=0.5 status=fault lane_count=8

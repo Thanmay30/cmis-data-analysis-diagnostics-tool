@@ -1,0 +1,19 @@
+[
+  {
+    "module_id": "CMIS-2001",
+    "temperature": "hot",
+    "voltage": 4.2,
+    "status": "active",
+    "lane_count": 0
+  },
+  "bad-record",
+  {
+    "module_id": "CMIS-2002",
+    "temperature": -55,
+    "voltage": 3.2,
+    "tx_power": 0.4,
+    "rx_power": 0.3,
+    "status": "enabled",
+    "lane_count": 4
+  }
+]

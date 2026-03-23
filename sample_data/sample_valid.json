@@ -1,0 +1,29 @@
+[
+  {
+    "module_id": "CMIS-1001",
+    "temperature": 38.4,
+    "voltage": 3.29,
+    "tx_power": 1.8,
+    "rx_power": 1.4,
+    "status": "active",
+    "lane_count": 4
+  },
+  {
+    "module": "CMIS-1002",
+    "temp": 27.1,
+    "vcc": 3.31,
+    "tx": 1.2,
+    "rx": 1.0,
+    "state": "standby",
+    "lanes": 4
+  },
+  {
+    "module_id": "CMIS-1003",
+    "temperature": 92.2,
+    "voltage": 3.51,
+    "tx_power": 0.7,
+    "rx_power": 0.5,
+    "status": "fault",
+    "lane_count": 8
+  }
+]

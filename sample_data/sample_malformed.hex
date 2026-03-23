@@ -1,0 +1,2 @@
+module_id=CMIS-4010 temperature=45 voltage=3.2 tx_power=1.0 rx_power=0.9 status=active lane_count=4
+module_id CMIS-4011 temperature=44 broken_token voltage=3.2 tx_power=1.0 rx_power=0.8 status=active lane_count=4
